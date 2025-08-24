@@ -1,7 +1,7 @@
 # Single Page Photography Website
 
 A clean and responsive photography portfolio website showcasing personal photography projects.  
-Built with **HTML, CSS, and JavaScript**, the site features a grid-based gallery layout, mobile responsiveness, and smooth navigation.  
+Built with HTML, CSS, and JavaScript, the site features a grid-based gallery layout, mobile responsiveness, and smooth navigation.  
 
 Author: Timothy Johnson <br>
 Date: March 2022
@@ -67,5 +67,6 @@ Photography-Portfolio/<br>
 
 🪪 License
 
-© 2025 Timothy Johnson. All Rights Reserved.
-This site and its code may not be copied or reused without permission.
+© 2022 Timothy Johnson. All Rights Reserved.<br>
+This project and its code may not be copied, modified, or reused without permission.
+
