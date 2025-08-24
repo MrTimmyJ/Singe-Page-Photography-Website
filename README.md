@@ -67,4 +67,5 @@ Photography-Portfolio/<br>
 
 🪪 License
 
-This open-source project is available under the [MIT License](https://opensource.org/license/mit).
+© 2025 Timothy Johnson. All Rights Reserved.
+This site and its code may not be copied or reused without permission.
